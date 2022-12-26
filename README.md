@@ -14,8 +14,7 @@ La letra "o" es convertida a "ober"
 La letra "u" es convertida a "ufat"
 
 ✔️ Requisitos
-Debe funcionar solo con letras minúsculas.
-No deben ser utilizados letras con acentos ni caracteres especiales.
+No deben ser utilizados letras con acentos ni caracteres especiales ya que no serán encriptados.
 Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 Por ejemplo:
 
